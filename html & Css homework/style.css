@@ -1,0 +1,53 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.n {
+    background-color: #95afe2;
+    width: 250px;
+    height: 420px;
+    border: 2px solid rgb(213, 235, 119);
+    border-radius: 10px;
+    margin: 30px auto;
+}
+
+.n1 {
+    background-color: rgb(235, 238, 240);
+    border: 1px solid;
+    border-radius: 10px;
+    width: fit-content;
+    margin: 10px auto;
+}
+
+.n2 {
+    text-align: center;
+}
+
+.n3 {
+    text-align: center;
+    color: azure;
+}
+
+hr {
+    width: 80%;
+    margin: auto;
+    margin-top: 2px;
+    border-width: 2px;
+    border-color: rgb(192, 205, 223);
+}
+
+.id {
+    width: 160px;
+    height: 150px;
+    border-radius: 50%;
+    display: block;
+    margin: auto;
+}
+
+table {
+    margin: auto;
+    margin-top: 15px;
+    width: 80%;
+}
